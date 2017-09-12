@@ -5,7 +5,7 @@ import App from './App'
 import 'mint-ui/lib/style.css';
 
 Vue.config.productionTip = false
-
+console.log(1);
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
